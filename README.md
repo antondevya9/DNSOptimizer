@@ -1,6 +1,6 @@
 # DNSOptimizer
 
-![Image alt](https://github.com/antondevya9/DNSOptimizer/main/logo.png)
+![Image alt](logo.png)
 
 
 DNSOptimizer measures Internet speed, finds the best DNS server and applies it to your settings. 
